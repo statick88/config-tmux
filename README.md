@@ -1,5 +1,7 @@
 #  Configuración Personalizada de Tmux
 
+![Tmux](https://github.com/statick88/config-tmux/blob/docs-assets/assets/configTmux.png)
+
 Este repositorio contiene una configuración personalizada de **tmux** para mejorar la experiencia en la terminal con características como el soporte para plugins, la navegación estilo Vim, el uso del ratón, y una barra de estado personalizada. Además, incluye **Tmux Plugin Manager (TPM)** para facilitar la instalación y gestión de plugins.
 
 ## Requisitos
